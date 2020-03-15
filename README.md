@@ -1,1 +1,1 @@
-# Some interesting processing projects, often simulations or fun maths
+# Some interesting projects, often simulations or fun maths
